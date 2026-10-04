@@ -1,0 +1,1 @@
+# veda-task-sales-data-calculator
